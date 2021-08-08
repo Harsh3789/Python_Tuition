@@ -4,6 +4,8 @@ t=int(input("The Third No is : "))
 fr=int(input("The Fourth No is : "))
 fif=int(input("The Fifth No is : "))
 
+
+
 if f==s and f==t and f==fr and f==fif:
     print("All No's are same")
 if f>s and f>t and f>fr and f>fif:
