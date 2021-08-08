@@ -16,3 +16,9 @@ if fr>f and fr>s and fr>t and fr>fif:
     print("Fourth No is the greatest : ",fr)
 if fif>f and fif>s and fif>t and fif>fr:
     print("Fifth No is the greatest : ",fif)
+
+
+
+km=int(input("Enter the KM : "))
+m=km*1000
+print("The entered KM after change in Meter is : ",m)
